@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Santa Eularia des Riu",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-23T08:01:35.030Z",
+      "notes": "",
+      "position": {
+        "lat": "38.95940879245423",
+        "lng": "1.4941406250000002"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Kitui",
+      "country": "Kenya",
+      "emoji": "🇰🇪",
+      "date": "2024-10-23T08:01:55.051Z",
+      "notes": "",
+      "position": {
+        "lat": "-1.323734761011294",
+        "lng": "38.01818847656251"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Goure",
+      "country": "Niger (the)",
+      "emoji": "🇳🇪",
+      "date": "2024-10-23T08:02:36.473Z",
+      "notes": "",
+      "position": {
+        "lat": "15.284185114076445",
+        "lng": "9.843750000000002"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Ji Parana",
+      "country": "Brazil",
+      "emoji": "🇧🇷",
+      "date": "2024-10-23T08:02:42.413Z",
+      "notes": "",
+      "position": {
+        "lat": "-10.487811882056683",
+        "lng": "-61.87500000000001"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Longny les Villages",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-10-24T07:00:06.363Z",
+      "notes": "",
+      "position": {
+        "lat": "48.50204750525715",
+        "lng": "0.7690429687500001"
+      },
+      "id": 5
+    }
+  ]
+}
